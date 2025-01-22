@@ -1,7 +1,12 @@
 # deploy_ssh_key_on_mikrotik
- bash script using ssh connection to mikrotik to create a new user and deploy ssh pub key to multiple devices
+bash script using ssh connection to mikrotik to create a new user and deploy ssh pub key to multiple devices
+
 Имя и пароль нового пользователя прописывается в скрипте
+
 по-умолчанию берется публичный ключ у пользователя в локальной файловой системе
+
 это так же можно изменить в начале скрипта
+
 имя и пароль существующего пользователя с какими подключаться к устройствам скрипт спрашивает в начале выполнения
+
 
